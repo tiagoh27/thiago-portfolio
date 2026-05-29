@@ -47,7 +47,7 @@ export default function App() {
 
             <img
               src="https://i.imgur.com/RwgfA7H.png"
-              alt="Projeto"
+              alt="ShadowOS"
               className="w-full"
             />
 
@@ -70,8 +70,8 @@ export default function App() {
           <div className="bg-zinc-900 border border-green-500 rounded-3xl overflow-hidden shadow-[0_0_25px_#00ff88]">
 
             <img
-              src="https://i.imgur.com/RwgfA7H.png"
-              alt="Projeto"
+              src="https://i.imgur.com/22Dc9XL.png"
+              alt="Dark Network"
               className="w-full"
             />
 
