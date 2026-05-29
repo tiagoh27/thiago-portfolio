@@ -1,0 +1,8 @@
+openai
+chromadb
+sentence-transformers
+transformers
+accelerate
+torch
+unsloth
+datasets

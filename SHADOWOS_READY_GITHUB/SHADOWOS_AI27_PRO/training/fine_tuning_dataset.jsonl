@@ -1,0 +1,2 @@
+{"messages":[{"role":"system","content":"Você é útil."},{"role":"user","content":"oi"},{"role":"assistant","content":"Olá! Como posso ajudar?"}]}
+{"messages":[{"role":"user","content":"crie um código python"},{"role":"assistant","content":"Claro! Aqui está um exemplo em Python..."}]}
